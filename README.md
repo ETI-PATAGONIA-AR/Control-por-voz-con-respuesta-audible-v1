@@ -22,3 +22,9 @@ El circuito para este proyecto, es el siguiente:
 Un video corto de como funciona el proyecto: ( https://www.youtube.com/watch?v=W19402g4q_c )
 
 [![CtrlDOMOTICO_VR3](https://img.youtube.com/vi/W19402g4q_c/0.jpg)](https://www.youtube.com/watch?v=W19402g4q_c)
+
+_**No te pierdas la 2da parte de este proyecto:**_
+
+https://github.com/ETI-PATAGONIA-AR/Control-por-voz-con-respuesta-audible-v2
+
+[![CtrlVOZ_VR3_v2](https://img.youtube.com/vi/N6YvQgb3dJE/0.jpg)](https://youtu.be/N6YvQgb3dJE)
